@@ -1,3 +1,1 @@
-# ExmDiagnostico
 # Presentacion
-# Diagnostico
